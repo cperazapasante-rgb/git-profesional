@@ -1,4 +1,4 @@
 export type Estaciones = {
-    id: string,
+    id: number,
     nombre: string,
 }
